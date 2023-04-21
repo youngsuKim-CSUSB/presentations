@@ -1,0 +1,6 @@
+name: dawg-spring2023
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - ipympl
