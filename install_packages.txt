@@ -1,0 +1,2 @@
+pip install line_profiler[ipython] memory_profiler[ipython] && \
+mamba install --yes -c conda-forge sage sympy matplotlib joblib

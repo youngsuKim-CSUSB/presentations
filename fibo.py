@@ -41,3 +41,8 @@ def fibonacci_variable(n):
                 f_nm2 = f_nm1
                 f_nm1 = f_n
                 i += 1
+
+def f_tests(n=10):
+    print(f"F_10 = {naive_fibonacci(n)} = {fibonacci_list(n)} = {fibonacci_variable(n)}") 
+
+f_tests()

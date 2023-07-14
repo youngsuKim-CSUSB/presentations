@@ -2,8 +2,6 @@ name: prime-summer2023
 channels:
   - conda-forge
 dependencies:
-  - matplotlib
-  - ipympl
   - line_profiler
   - memory_profiler
   - sage
