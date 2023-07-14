@@ -1,6 +1,12 @@
-name: dawg-spring2023
+name: prime-summer2023
 channels:
   - conda-forge
 dependencies:
   - matplotlib
   - ipympl
+  - line_profiler
+  - memory_profiler
+  - sage
+  - sympy
+  - matplotlib
+  - joblib
