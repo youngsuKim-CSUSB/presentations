@@ -1,7 +1,0 @@
-name: dawg-fall2023
-channels:
-  - conda-forge
-dependencies:
-  - matplotlib
-  - pandas
-  - numpy
