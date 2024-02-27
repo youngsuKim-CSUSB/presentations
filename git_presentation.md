@@ -23,4 +23,15 @@ Git is a powerful tool but people experience a high learning curve
 - git requires learning concepts that is (very) new to many people, including myself
 - linear learning git is often inefficient and goal-oriented staged learning is suggested
 
+Real life examples:
+- Webpage hosting - Jekill on GitHub
+- Collaboration with students 
 
+branch, commit, head, stage
+
+Peripherals
+- credential
+- git.ignore
+
+Example:
+- 
